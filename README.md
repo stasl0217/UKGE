@@ -31,7 +31,7 @@ Xuelu Chen, Muhao Chen, Weijia Shi, Yizhou Sun, Carlo Zaniolo. Embedding Uncerta
 
     @inproceedings{chen2019ucgraph,
         title={Embedding Uncertain Knowledge Graphs},
-        author={Xuelu Chen, Muhao Chen, Weijia Shi, Yizhou Sun, Carlo Zaniolo},
+        author={Chen, Xuelu and Chen, Muhao and Shi, Weijia and Sun, Yizhou and Zaniolo, Carlo},
         booktitle={Proceedings of the Thirty-Third AAAI Conference on Artificial Intelligence (AAAI)},
         year={2019}
     }
